@@ -9,7 +9,6 @@ public class division {
 	    System.out.print("Input the second number: ");
 	    int b = input.nextInt();
 	    int d = (a/b);
-	    System.out.println();
 	    System.out.println("The division of a and b is:" +d);
 
 	}
