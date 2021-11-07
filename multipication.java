@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class multipication {
 
     public static void main(String[] args) {
